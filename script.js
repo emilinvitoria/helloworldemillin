@@ -24,3 +24,7 @@ console.log(aluno1.);
 console.log(aluno1.);
 
 const objeto=document.querySelector('#aluno')
+objeto.textContent=aluno1.nome;
+console.log(aluno1.materialFavpritas);
+console.log(aluno1.materiasFavoritas[1]);
+
