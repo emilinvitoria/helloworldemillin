@@ -1,4 +1,4 @@
-unction inserirNome(){
+function inserirNome(){
 let nomeUsuario = prompt("Qual o seu nome");
    let elemento = document.querySelector("#nome-usuario");
    console.log(elemento);
@@ -14,6 +14,13 @@ lista.textContent = linguagens[2];
 let aluno1 = {
 nome:'Emilin',
 idade:18,
-anoLetivo:3ºensino médio',
+anoLetivo:'3ºensino médio',
 materiasFavoritas:['educação fisica']
 }
+
+console.log(aluno1.aluno);
+console.log(aluno1.idade);
+console.log(aluno1.);
+console.log(aluno1.);
+
+const objeto=document.querySelector('#aluno')
